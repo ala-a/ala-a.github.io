@@ -1409,8 +1409,8 @@ a.bg-danger:focus {
   background-color: #e4b9b9;
 }
 .page-header {
-  padding-bottom: 9px;
-  margin: 40px 0 20px;
+  padding-bottom: 50px;
+  margin: 40px 50px 20px;
   border-bottom: 1px solid #eee;
 }
 ul,
@@ -4183,8 +4183,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-collapse {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
   overflow-x: visible;
   -webkit-overflow-scrolling: touch;
   border-top: 1px solid transparent;
@@ -4326,10 +4326,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-nav {
   margin: 7.5px -15px;
 }
+.navbar-inner {
+    min-height: 0px;
+}
 .navbar-nav > li > a {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  line-height: 20px;
+    line-height: 150px;
+    height: 150px;
+    padding-top: 50px;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -4363,7 +4366,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
+    padding-top: 50px;
     padding-bottom: 15px;
   }
 }
@@ -5237,7 +5240,7 @@ a.thumbnail.active {
   vertical-align: bottom;
 }
 .media-heading {
-  margin-top: 0;
+  margin-top: 50;
   margin-bottom: 5px;
 }
 .media-list {

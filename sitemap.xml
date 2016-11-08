@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.alaavoyan.com/</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/index.html</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/CV.html</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/research.html</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/teaching.html</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/other.html</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/docs/CV_Avoyan_2016.pdf</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/docs/AvoyanSchotterSep2016.pdf</loc>
+</url>
+<url>
+  <loc>http://www.alaavoyan.com/docs/AvoyanRamosSep2016.pdf</loc>
+</url>
+</urlset>

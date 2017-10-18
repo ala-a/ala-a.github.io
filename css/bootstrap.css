@@ -5286,7 +5286,7 @@ button.list-group-item:focus {
 }
 button.list-group-item {
   width: 100%;
-  text-align: left;
+  text-align: center;
 }
 .list-group-item.disabled,
 .list-group-item.disabled:hover,

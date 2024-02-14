@@ -6760,4 +6760,19 @@ button.close {
     display: none !important;
   }
 }
+
+.image-cropper {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 90%;
+}
+
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
 /*# sourceMappingURL=bootstrap.css.map */

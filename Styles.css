@@ -1,0 +1,122 @@
+body {
+    text-align: left;
+    background-color: #fffbfb;
+    padding-top: 30px;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, serif; 
+    font-weight: 100;
+}
+
+.content {
+    flex: 1;
+}
+
+.container,
+.text-content {
+    width: 42%;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+}
+
+.column img,
+.column .image-container img {
+    max-width: 85%;
+    height: auto;
+}
+
+.column .image-container {
+    margin-left: 120px; 
+}
+
+ol {
+    text-align: left;
+    padding-left: 20px; 
+}
+
+footer {
+    padding: 10px 0;
+    font-size: 0.8em;
+    align-self: flex-end;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+    color: rgb(88, 85, 85);
+}
+
+a {
+    color: black;
+}
+
+.soft-bold {
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.container-wide {
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.column-wide {
+    flex: 1;
+    padding: 10px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+.header {
+    background-color: #cecbdd;
+    color: #040404;
+    text-align: center;
+    padding: 15px 0;
+    margin-bottom: 15px;
+    border-top: 2px solid #888;
+    border-bottom: 2px solid #888; 
+}
+
+.header-title {
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+    color: #373636; 
+    font-family: 'ChalkDuster', sans-serif; 
+}
+
+.footer {
+    background-color: #cecbdd;
+    color: #040404;
+    text-align: left;
+    padding: 15px 20px; 
+    margin-top: 15px;
+    border-top: 2px solid #888;
+    border-bottom: 2px solid #888;
+    width: calc(100%); 
+    box-sizing: border-box;
+}
+
+.small-text {
+    font-size: 25px;
+}
